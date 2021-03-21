@@ -20,7 +20,7 @@ import { getSettings } from './lib/settings.js'
 import { styles } from './lib/styles/Styles.js'
 import CustomStyles from './lib/styles/CustomStyles.js'
 
-const refreshFrequency = 12000
+const refreshFrequency = 60000
 
 const settings = getSettings()
 
